@@ -12,10 +12,6 @@ This repository contains a Transformer model implementation from scratch for bui
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
